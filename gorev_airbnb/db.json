@@ -1,0 +1,54 @@
+{
+  "homes": [
+    {
+      "id": "1",
+      "title": "Cozy Downtown Loft",
+      "description": "Modern loft in the heart of downtown with stunning city views. Perfect for business travelers and couples.",
+      "pricePerNight": 120,
+      "location": "Istanbul, Türkiye",
+      "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+      "guests": 2,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "amenities": [
+        "WiFi",
+        "Kitchen",
+        "Air Conditioning",
+        "Workspace"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Beachfront Villa",
+      "description": "Sea view villa with private deck and spacious rooms.",
+      "pricePerNight": 350,
+      "location": "Antalya, Türkiye",
+      "imageUrl": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+      "guests": 8,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "amenities": [
+        "WiFi",
+        "Pool",
+        "Kitchen",
+        "Parking"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Mountain Cabin Retreat",
+      "description": "Cozy wooden cabin surrounded by nature. Ideal for a calm weekend.",
+      "pricePerNight": 90,
+      "location": "Bolu, Türkiye",
+      "imageUrl": "https://images.unsplash.com/photo-1523217582562-09d0def993a6",
+      "guests": 4,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "amenities": [
+        "Fireplace",
+        "Kitchen",
+        "WiFi"
+      ]
+    }
+  ]
+}
